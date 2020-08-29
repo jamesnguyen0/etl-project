@@ -1,0 +1,25 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Worksheet</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+   
+   <thead>      
+      <tr>
+         <th aria-label="If listed as single number, the year the season ended.★ - Indicates All-Star for league.Only on regular season tables." data-stat="season" scope="col" class=" poptip sort_default_asc center" data-tip="If listed as single number, the year the season ended.<br>★ - Indicates All-Star for league.<br>Only on regular season tables.">Season</th>
+         <th aria-label="Team" data-stat="team_name" scope="col" class=" poptip sort_default_asc left">Team</th>
+         <th aria-label="League" data-stat="lg_id" scope="col" class=" poptip sort_default_asc center" data-tip="League">Lg</th>
+         <th aria-label="Salary" data-stat="salary" scope="col" class=" poptip right">Salary</th>
+      </tr>
+      
+   </thead>
+   <tbody>
+<tr data-row="0"><th scope="row" class="left " data-stat="season">2013-14</th><td class="left " data-stat="team_name">Milwaukee Bucks</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="1792560">$1,792,560</td></tr>
+<tr data-row="1"><th scope="row" class="left " data-stat="season">2014-15</th><td class="left " data-stat="team_name">Milwaukee Bucks</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="1873200">$1,873,200</td></tr>
+<tr data-row="2"><th scope="row" class="left " data-stat="season">2015-16</th><td class="left " data-stat="team_name">Milwaukee Bucks</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="1953960">$1,953,960</td></tr>
+<tr data-row="3"><th scope="row" class="left " data-stat="season">2016-17</th><td class="left " data-stat="team_name">Milwaukee Bucks</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="2995421">$2,995,421</td></tr>
+<tr data-row="4"><th scope="row" class="left " data-stat="season">2017-18</th><td class="left " data-stat="team_name">Milwaukee Bucks</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="22471910">$22,471,910</td></tr>
+<tr data-row="5"><th scope="row" class="left " data-stat="season">2018-19</th><td class="left " data-stat="team_name">Milwaukee Bucks</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="24157304">$24,157,304</td></tr>
+
+   </tbody>
+   <tfoot><tr data-row="6"><th scope="row" class="left " data-stat="season">Career</th><td class="left " data-stat="team_name">(may be incomplete)</td><td class="left iz" data-stat="lg_id"></td><td class="right " data-stat="salary">$55,244,355</td></tr>
+
+   </tfoot>
+
+</table></body></html>

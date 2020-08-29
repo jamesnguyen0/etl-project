@@ -1,0 +1,32 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Worksheet</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+   
+   <thead>      
+      <tr>
+         <th aria-label="If listed as single number, the year the season ended.★ - Indicates All-Star for league.Only on regular season tables." data-stat="season" scope="col" class=" poptip sort_default_asc center" data-tip="If listed as single number, the year the season ended.<br>★ - Indicates All-Star for league.<br>Only on regular season tables.">Season</th>
+         <th aria-label="Team" data-stat="team_name" scope="col" class=" poptip sort_default_asc left">Team</th>
+         <th aria-label="League" data-stat="lg_id" scope="col" class=" poptip sort_default_asc center" data-tip="League">Lg</th>
+         <th aria-label="Salary" data-stat="salary" scope="col" class=" poptip right">Salary</th>
+      </tr>
+      
+   </thead>
+   <tbody>
+<tr data-row="0"><th scope="row" class="left " data-stat="season">2008-09</th><td class="left " data-stat="team_name">Chicago Bulls</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="4822800">$4,822,800</td></tr>
+<tr data-row="1"><th scope="row" class="left " data-stat="season">2009-10</th><td class="left " data-stat="team_name">Chicago Bulls</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="5184480">$5,184,480</td></tr>
+<tr data-row="2"><th scope="row" class="left " data-stat="season">2010-11</th><td class="left " data-stat="team_name">Chicago Bulls</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="5546160">$5,546,160</td></tr>
+<tr data-row="3"><th scope="row" class="left " data-stat="season">2011-12</th><td class="left " data-stat="team_name">Chicago Bulls</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="6993708">$6,993,708</td></tr>
+<tr data-row="4"><th scope="row" class="left " data-stat="season">2012-13</th><td class="left " data-stat="team_name">Chicago Bulls</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="16402500">$16,402,500</td></tr>
+<tr data-row="5"><th scope="row" class="left " data-stat="season">2013-14</th><td class="left " data-stat="team_name">Chicago Bulls</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="17632688">$17,632,688</td></tr>
+<tr data-row="6"><th scope="row" class="left " data-stat="season">2014-15</th><td class="left " data-stat="team_name">Chicago Bulls</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="18862875">$18,862,875</td></tr>
+<tr data-row="7"><th scope="row" class="left " data-stat="season">2015-16</th><td class="left " data-stat="team_name">Chicago Bulls</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="20093063">$20,093,063</td></tr>
+<tr data-row="8"><th scope="row" class="left " data-stat="season">2016-17</th><td class="left " data-stat="team_name">New York Knicks</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="21323250">$21,323,250</td></tr>
+<tr data-row="9"><th scope="row" class="left " data-stat="season">2017-18</th><td class="left " data-stat="team_name">Cleveland Cavaliers</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="1356709">$1,356,709</td></tr>
+<tr data-row="10"><th scope="row" class="left " data-stat="season">2017-18</th><td class="left " data-stat="team_name">Utah Jazz</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="749761">$749,761</td></tr>
+<tr data-row="11"><th scope="row" class="left " data-stat="season">2017-18</th><td class="left " data-stat="team_name">Minnesota Timberwolves</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="290951">$290,951</td></tr>
+<tr data-row="12"><th scope="row" class="left " data-stat="season">2018-19</th><td class="left " data-stat="team_name">Minnesota Timberwolves</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="2176260">$2,176,260</td></tr>
+
+   </tbody>
+   <tfoot><tr data-row="13"><th scope="row" class="left " data-stat="season">Career</th><td class="left " data-stat="team_name">(may be incomplete)</td><td class="left iz" data-stat="lg_id"></td><td class="right " data-stat="salary">$121,435,205</td></tr>
+
+   </tfoot>
+
+</table></body></html>
