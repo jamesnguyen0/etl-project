@@ -1,0 +1,40 @@
+--drop table MVP_data
+create table MVP_data(
+	PLAYER_NAME varchar,
+	GAME_NUMBER int,
+	GAME_PLAYED int,
+	DATE varchar,
+	AGE int,
+	TEAM varchar,
+	HOME_AWAY varchar,
+	OPP varchar,
+	RESULT varchar,
+	GS int,
+	MP varchar,
+	MIN int,
+	SEC int,
+	SECONDS_PLAYED int,
+	FG int,
+	FGA int,
+	FG_PERCENT decimal,
+	THREEP int,
+	THREEPA int,
+	THREEP_PERCENT decimal,
+	FT int,
+	FTA int,
+	FT_PERCENT decimal,
+	ORB int,
+	DRB int,
+	TRB int,
+	AST int,
+	STL int,
+	BLK int,
+	TOV int,
+	PF int,
+	PTS int,
+	GMSC decimal,
+	PLUS_MINUS varchar
+);
+
+select * from MVP_data
+limit 5
