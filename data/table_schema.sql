@@ -38,3 +38,25 @@ create table MVP_data(
 
 select * from MVP_data
 limit 5
+
+--drop table contracts
+create table contracts(
+	PLAYER varchar,
+	SEASON varchar,
+	TEAM varchar,
+	LEAGUE varchar,
+	SALARY money
+);
+
+select * from contracts
+limit 5
+
+create view contracts_clean as
+  select PLAYER, SEASON, SALARY from contracts;
+
+--joined table
+select *
+from MVP_data as m
+join contracts_clean as c
+on PLAYER_NAME = PLAYER
+limit 10

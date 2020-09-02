@@ -1,0 +1,31 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Worksheet</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+   
+   <thead>      
+      <tr>
+         <th aria-label="If listed as single number, the year the season ended.★ - Indicates All-Star for league.Only on regular season tables." data-stat="season" scope="col" class=" poptip sort_default_asc center" data-tip="If listed as single number, the year the season ended.<br>★ - Indicates All-Star for league.<br>Only on regular season tables.">Season</th>
+         <th aria-label="Team" data-stat="team_name" scope="col" class=" poptip sort_default_asc left">Team</th>
+         <th aria-label="League" data-stat="lg_id" scope="col" class=" poptip sort_default_asc center" data-tip="League">Lg</th>
+         <th aria-label="Salary" data-stat="salary" scope="col" class=" poptip right">Salary</th>
+      </tr>
+      
+   </thead>
+   <tbody>
+<tr data-row="0"><th scope="row" class="left " data-stat="season">2007-08</th><td class="left " data-stat="team_name">Seattle SuperSonics</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="4171200">$4,171,200</td></tr>
+<tr data-row="1"><th scope="row" class="left " data-stat="season">2008-09</th><td class="left " data-stat="team_name">Oklahoma City Thunder</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="4484040">$4,484,040</td></tr>
+<tr data-row="2"><th scope="row" class="left " data-stat="season">2009-10</th><td class="left " data-stat="team_name">Oklahoma City Thunder</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="4796880">$4,796,880</td></tr>
+<tr data-row="3"><th scope="row" class="left " data-stat="season">2010-11</th><td class="left " data-stat="team_name">Oklahoma City Thunder</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="6053663">$6,053,663</td></tr>
+<tr data-row="4"><th scope="row" class="left " data-stat="season">2011-12</th><td class="left " data-stat="team_name">Oklahoma City Thunder</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="15506632">$15,506,632</td></tr>
+<tr data-row="5"><th scope="row" class="left " data-stat="season">2012-13</th><td class="left " data-stat="team_name">Oklahoma City Thunder</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="16669630">$16,669,630</td></tr>
+<tr data-row="6"><th scope="row" class="left " data-stat="season">2013-14</th><td class="left " data-stat="team_name">Oklahoma City Thunder</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="17832627">$17,832,627</td></tr>
+<tr data-row="7"><th scope="row" class="left " data-stat="season">2014-15</th><td class="left " data-stat="team_name">Oklahoma City Thunder</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="18995624">$18,995,624</td></tr>
+<tr data-row="8"><th scope="row" class="left " data-stat="season">2015-16</th><td class="left " data-stat="team_name">Oklahoma City Thunder</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="20158622">$20,158,622</td></tr>
+<tr data-row="9"><th scope="row" class="left " data-stat="season">2016-17</th><td class="left " data-stat="team_name">Golden State Warriors</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="26540100">$26,540,100</td></tr>
+<tr data-row="10"><th scope="row" class="left " data-stat="season">2017-18</th><td class="left " data-stat="team_name">Golden State Warriors</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="25000000">$25,000,000</td></tr>
+<tr data-row="11"><th scope="row" class="left " data-stat="season">2018-19</th><td class="left " data-stat="team_name">Golden State Warriors</td><td class="left " data-stat="lg_id">NBA</td><td class="right " data-stat="salary" csk="30000000">$30,000,000</td></tr>
+
+   </tbody>
+   <tfoot><tr data-row="12"><th scope="row" class="left " data-stat="season">Career</th><td class="left " data-stat="team_name">(may be incomplete)</td><td class="left iz" data-stat="lg_id"></td><td class="right " data-stat="salary">$190,209,018</td></tr>
+
+   </tfoot>
+
+</table></body></html>
