@@ -1,14 +1,14 @@
 # etl-project notes
 
-Source of data: 
+* Source of data: 
   * Basketball Reference (https://www.basketball-reference.com/)
-Types of transformation needed for this data:
+* Types of transformation needed for this data:
   * cleaning
   * joining
   * filtering
-Type of final production database to load the data into:
+* Type of final production database to load the data into:
   * relational
-Final tables:
+* Final tables:
   * mvp_data.csv
   * roty_data.csv
   * contracts.csv
