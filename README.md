@@ -13,7 +13,7 @@ Final tables:
   * roty_data.csv
   * contracts.csv
 
-Final Report:
+## Final Report:
   * Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc)
     * We downloaded player statistics from Basketball Reference in the form of .xls files.
   * Transform: what data cleaning or transformation was required.
